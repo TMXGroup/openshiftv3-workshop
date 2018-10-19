@@ -1,7 +1,7 @@
 image::images/tmx_openshift.png[]
 
 [[openshift-v3-workshop-labs]]
-OpenShift V3 Workshop Labs
+TMX OpenShift V3 Workshop Labs
 --------------------------
 
 [[lab-exercises-table-of-contents]]

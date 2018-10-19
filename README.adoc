@@ -1,4 +1,5 @@
-image::images/tmx_openshift.png
+image::images/tmx_openshift.png[]
+
 [[openshift-v3-workshop-labs]]
 TMX OpenShift V3 Workshop Labs
 --------------------------
